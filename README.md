@@ -26,7 +26,7 @@
 
 | 🥉 | Achievement | Event |
 |:---:|:---|:---|
-| **2nd Runner-Up** | National Prototype Hackathon | AI मंथन 2025 — Prize: ₹21,000 |
+| **2nd Runner-Up** | National Prototype Hackathon | AI मंथन 2025 |
 | **2nd Runner-Up** | International Hackathon | TechFiesta International |
 | **Finalist** | Morphus Hackathon | Innovation Track |
 | **Shortlisted** | India Innovates | Bharat Mandapam, New Delhi |
